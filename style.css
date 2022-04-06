@@ -1,0 +1,44 @@
+
+.brand{
+    font-weight: bold;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    color: white;
+}
+.nav-link{
+ 
+    margin: 0px 5px;
+}
+
+.home{
+    margin: 10px 20px;
+}
+.p3{
+    align-items: center;
+    text-align: center;
+}
+.service3{
+    width: 100px;
+    align-items: center;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+.itempack{
+    display: block;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+.header3{
+    
+    align-items: center;
+    text-align: center;
+    
+}
+.col {
+    cursor: pointer;
+}
+.row{
+    cursor: pointer;
+}
